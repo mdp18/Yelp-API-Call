@@ -3,7 +3,7 @@ import json
 
 import requests
 
-api_key='qAtHFCT8DKm4kkF0dKrkueifYOSUpcgNpn-FIMiPoW1BijfRT1_FUlKokalfKnDOIIPREjgwwhuytstt11DOKZbzZtKO9LJrzCpdQ0z0918PHxSr02FiE-NIfpmnXHYx'
+api_key='#PrivateKey'
 
 headers = {'Authorization': 'Bearer %s' % api_key}
 url='https://api.yelp.com/v3/businesses/search'
